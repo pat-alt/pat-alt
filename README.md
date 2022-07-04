@@ -24,11 +24,6 @@ If you want to find out more about my research or get in touch:
         <img width="60" height="60" src="https://s1g.s3.amazonaws.com/3949237f892004c237021ac9e3182b1d.png" alt="Twitter" style="border: none; max-width: 100%; height: 60px !important;">
       </font>
     </a>
-    <a href="https://github.com/pat-alt" style="display: inline-block; color: rgb(207, 142, 255) !important;">
-      <font style="">
-        <img width="60" height="60" src="https://s1g.s3.amazonaws.com/47f4eb2d0082a8a3611d614b75a09db8.png" alt="Github" style="border: none; max-width: 100%; height: 60px !important;">
-      </font>
-    </a>
     <a href="https://medium.com/@patrick.altmeyer" style="display: inline-block; color: rgb(207, 142, 255) !important;">
       <font style="">
         <img width="60" height="60" src="https://s1g.s3.amazonaws.com/175f49662614345cb7dbb95fce3f88af.png" alt="Medium" style="border: none; max-width: 100%; height: 60px !important;">
