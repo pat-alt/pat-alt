@@ -6,6 +6,7 @@ I code in [Julia](https://github.com/JuliaLang/julia) 🔴🟣🟢 and write in 
 
 - [CounterfactualExplanations.jl](https://github.com/pat-alt/CounterfactualExplanations.jl)
 - [LaplaceRedux.jl](https://github.com/pat-alt/LaplaceRedux.jl)
+- [ConformalPrediction.jl](https://github.com/pat-alt/ConformalPrediction.jl)
 
 If you want to find out more about my research or get in touch:
 
