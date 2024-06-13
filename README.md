@@ -12,6 +12,7 @@ If you want to find out more about my research or get in touch:
 
 - [website](https://www.paltmeyer.com/)
 - [blog](https://www.paltmeyer.com/blog/)
+- <a rel="me" href="https://julialang.social/home/">Mastodon</a>
 
 <div style="text-align: center;">
   <p style="display: inline; vertical-align: middle"> 
