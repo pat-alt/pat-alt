@@ -7,7 +7,7 @@ I code mostly in [Julia](https://github.com/JuliaLang/julia) and lead developmen
 If you want to find out more about my work or get in touch:
 
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/patrick-altmeyer-a2a25494/](https://www.paltmeyer.com/)">
+  <a href="https://www.patalt.org/">
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge&logo=googlehome&logoColor=white" alt="Homepage Badge"/>
   </a>
   <a href="https://julialang.social/@patalt" rel="me">
