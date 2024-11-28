@@ -11,7 +11,7 @@ If you want to find out more about my work or get in touch:
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge&logo=googlehome&logoColor=white" alt="Homepage Badge"/>
   </a>
   <a href="https://bsky.app/profile/patalt.org" rel="me">
-    <img src="https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white" alt="Bluesky Badge"/>
+    <img src="https://img.shields.io/badge/-Bluesky-3686f7?style=for-the-badge&logo=icloud&logoColor=white" alt="Bluesky Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/patrick-altmeyer-a2a25494/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
