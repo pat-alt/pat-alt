@@ -2,7 +2,7 @@
 
 I’m a PhD Candidate in Trustworthy Artificial Intelligence at Delft University of Technology working on the intersection of Computer Science and Finance. My current research revolves around Counterfactual Explanations and Probabilistic Machine Learning. Previously, I worked as and Economist for the Bank of England.
 
-I code mostly in [Julia](https://github.com/JuliaLang/julia) and lead development of the [Taija](https://github.com/JuliaTrustworthyAI) package ecosystem for Trustworthy AI in Julia.
+I code mostly in [Julia](https://github.com/JuliaLang/julia) and lead the development of the [Taija](https://github.com/JuliaTrustworthyAI) package ecosystem for Trustworthy AI in Julia. Taija interacts heavily with the broader ecosystem for autodifferentation, deep learning and machine learning. I'm also proficient in both R and Python, including well-established deep learning framworks like PyTorch. One day, I will find the time to learn Rust. 
 
 If you want to find out more about my work or get in touch:
 
